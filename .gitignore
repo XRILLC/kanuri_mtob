@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# Backup files
+*~
+\#*\#
+
+# Swap files
+*.swp
+
+# Generated directory
+outputs/
+
+# Environment variables
+.env
